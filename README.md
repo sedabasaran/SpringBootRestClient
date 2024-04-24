@@ -1,4 +1,4 @@
-# SpringBootRestClient RestClient
+# Spring Boot RestClient 
 The RestClient is a synchronous HTTP client that offers a modern, fluent API. It offers an abstraction over HTTP libraries that allows for convenient conversion from a Java object to an HTTP request, and the creation of objects from an HTTP response.
 
 # This project uses JSONPlaceholder.
